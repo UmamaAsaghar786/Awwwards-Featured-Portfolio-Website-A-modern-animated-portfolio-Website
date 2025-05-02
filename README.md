@@ -1,0 +1,2 @@
+# Awwwards-Featured-Portfolio-Website-A-modern-animated-portfolio-Website
+This is a visually captivating and highly interactive portfolio website inspired by Awwwards-level standards. It is built using modern web technologies including GSAP (GreenSock Animation Platform) for seamless animations, alongside HTML, CSS, and Vanilla JavaScript for a clean and responsive layout.Designed with performance and elegance in mind.
